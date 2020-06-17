@@ -1,0 +1,8 @@
+
+.btnbox {
+	width: 100px;
+	background-color: #007AFF;
+	text-align: center;
+	margin: 10px;
+}
+
